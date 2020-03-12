@@ -1,6 +1,7 @@
 # ml1m images
 
 This repository provides researchers with URLs to each movie from the [MovieLens-1M data set](https://grouplens.org/datasets/movielens/1m)  
+A small number of images did not have an image on imdb, they have been replaced with automatically generated images with the title as text.  
 
 This can be easily used together with the existing information provided by merging the two CSVs on the item_id column:  
 ```
